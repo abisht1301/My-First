@@ -5,4 +5,6 @@ Welcome To Recipes World
 
 Pasta
 Noodels
-CHillie Potatoe 
+Chillie Potatoe 
+Pizza
+Showrma
