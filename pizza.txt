@@ -3,6 +3,7 @@ go to playstore
 download dominos app 
 choose a pizza 
 order pizza 
-deliver pizza 
+deliver pizza
+pay money to delivery boy 
 eat pizza 
 thank you 
