@@ -4,5 +4,6 @@ download dominos app
 choose a pizza 
 order pizza 
 deliver pizza 
+pay pizza
 eat pizza 
 thank you 
